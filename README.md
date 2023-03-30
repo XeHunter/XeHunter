@@ -1,4 +1,5 @@
-[![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/1*n2yzxtqyowiF228QBQwugA.png)](https://cdn-images-1.medium.com/fit/t/1600/480/1*n2yzxtqyowiF228QBQwugA.png)
+![MasterHead](https://user-images.githubusercontent.com/123807371/228915168-ba72cf5b-e01f-4d37-9f91-bc090d84b4d2.gif)
+
 <h1 align="center">Hi 👋, I'm Aryan Surve</h1>
 <h3 align="center">A passionate Computer Science Engineer from India</h3>
 
